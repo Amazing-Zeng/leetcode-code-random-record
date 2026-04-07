@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
+| [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 | [0792-binary-search](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0792-binary-search/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 <!---LeetCode Topics End-->
