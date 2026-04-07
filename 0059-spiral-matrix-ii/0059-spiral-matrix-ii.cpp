@@ -11,6 +11,7 @@ public:
 
         while(loop--)
         {
+            // 每次i，j都得在起始位置开始
             i=startx;
             j=starty;
             //左闭右开,推出条件j=n-offset
