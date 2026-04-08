@@ -41,4 +41,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
 <!---LeetCode Topics End-->
