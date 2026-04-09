@@ -13,9 +13,9 @@ public:
     }
     
     int get(int index) {
-        LinkedNode * cur=_dummyHead->next;
         if(index<0||index>(_size-1))
             return -1;
+        LinkedNode * cur=_dummyHead->next;
         while(index--)
         {
             cur=cur->next;
@@ -34,7 +34,7 @@ public:
     void addAtTail(int val) {
         LinkedNode * cur=_dummyHead;  
         LinkedNode *NewNode=new LinkedNode(val);
-        while(cur->next!=NULL)
+        while(cur->next!=nullptr)
         {
             cur=cur->next;
         }
@@ -43,7 +43,7 @@ public:
     }
     
     void addAtIndex(int index, int val) {
-        if(index>_size-1)
+        if(index>_size)
             return ;
         if(index < 0)
         index = 0; 
@@ -59,8 +59,10 @@ public:
     }
     
     void deleteAtIndex(int index) {
-        if(index<0||index>_size-1)
+        if(index<0||index>=_size)
+        {
             return ;
+        }
         LinkedNode * cur=_dummyHead;  
         while(index--)
         {
