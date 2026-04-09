@@ -49,4 +49,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
+| [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
 <!---LeetCode Topics End-->
