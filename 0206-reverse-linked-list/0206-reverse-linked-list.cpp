@@ -10,10 +10,13 @@
  */
 class Solution {
 public:
-    /*双指针写法*/
+   
     ListNode* reverseList(ListNode* head) {
+        
         ListNode *pre=nullptr;
         ListNode *cur=head;
+        if(cur == NULL) return pre;
+         /*双指针写法*/
         while(cur!=nullptr)
         {
             ListNode * temp;
@@ -24,6 +27,18 @@ public:
             
         }
         return pre;
-        
+        /*递归写法*/
+        //ListNode* reverse(cur,pre);
     }
+    /**
+    ListNode* reverse(ListNode * cur,ListNode* pre)
+    {
+        if(cur==nullptr) return pre;
+        ListNode * temp;
+        temp=cur->next;
+        cur->next=pre;
+        reverse(temp,cur);
+
+    }
+    */
 };
