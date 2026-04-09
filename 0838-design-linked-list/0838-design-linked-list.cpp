@@ -43,8 +43,10 @@ public:
     }
     
     void addAtIndex(int index, int val) {
+        //如果大于链表的长度，则返回空
         if(index>_size)
             return ;
+        //如果index小于0，则在头部插入结点
         if(index < 0)
         index = 0; 
         LinkedNode * cur=_dummyHead;  
@@ -59,7 +61,7 @@ public:
     }
     
     void deleteAtIndex(int index) {
-        if(index<0||index>=_size)
+        if(index<0||index>_size-1)
         {
             return ;
         }
