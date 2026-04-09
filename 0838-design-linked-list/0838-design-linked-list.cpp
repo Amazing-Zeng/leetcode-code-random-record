@@ -13,6 +13,7 @@ public:
     }
     
     int get(int index) {
+        //范围：0 ≤ index ≤ size-1
         if(index<0||index>(_size-1))
             return -1;
         LinkedNode * cur=_dummyHead->next;
@@ -43,6 +44,7 @@ public:
     }
     
     void addAtIndex(int index, int val) {
+        //范围：0 ≤ index ≤ size
         //如果大于链表的长度，则返回空
         if(index>_size)
             return ;
