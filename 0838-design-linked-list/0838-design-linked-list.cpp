@@ -161,15 +161,6 @@ public:
         _size--;
     }
 
-    // 打印链表
-    void printLinkedList() {
-        LinkedNode* cur = _dummyHead;
-        while (cur->next != nullptr) {
-            cout << cur->next->val << " ";
-            cur = cur->next;
-        }
-        cout << endl;
-    }
 private:
     int _size;
     LinkedNode* _dummyHead;
