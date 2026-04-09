@@ -28,7 +28,7 @@ public:
         }
         return pre;
         /*递归写法*/
-        //ListNode* reverse(cur,pre);
+        //return ListNode* reverse(cur,pre);
     }
     /**
     ListNode* reverse(ListNode * cur,ListNode* pre)
@@ -38,7 +38,6 @@ public:
         temp=cur->next;
         cur->next=pre;
         reverse(temp,cur);
-
     }
     */
 };
