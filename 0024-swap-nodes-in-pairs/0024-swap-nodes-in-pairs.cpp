@@ -20,10 +20,10 @@ public:
             ListNode * temp1;
             ListNode * temp2;
             temp1=cur->next;
-            temp2=temp1->next->next;
-            cur->next=cur->next->next;
-            cur->next->next=temp1;
-            temp1->next=temp2;
+            temp2=temp1->next->next; 
+            cur->next=cur->next->next;  // 步骤一
+            cur->next->next=temp1;   // 步骤二
+            temp1->next=temp2;   // 步骤三
             cur=temp1;
         }
         ListNode* result = dummyHead->next;
