@@ -19,6 +19,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 ## Sorting
@@ -50,6 +51,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0206-reverse-linked-list/) | undefined |
