@@ -26,6 +26,8 @@ public:
             temp1->next=temp2;
             cur=temp1;
         }
-        return dummyHead->next;   
+        ListNode* result = dummyHead->next;
+        delete dummyHead;
+        return result;   
     }
 };
