@@ -22,6 +22,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
+| [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,8 +57,13 @@
 | [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0206-reverse-linked-list/) | undefined |
 | [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
+| [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
 <!---LeetCode Topics End-->
