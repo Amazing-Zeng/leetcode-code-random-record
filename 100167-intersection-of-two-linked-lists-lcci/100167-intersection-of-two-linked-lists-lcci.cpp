@@ -72,3 +72,24 @@ public:
         return NULL;
     }
 };
+/*法2*/
+        // 让curA为最长链表的头，lenA为其长度
+        // if (lenB > lenA) {
+        //     swap (lenA, lenB);
+        //     swap (curA, curB);
+        // }
+        // 求长度差
+       // int gap = lenA - lenB;
+        // 让curA和curB在同一起点上（末尾位置对齐）
+        // while (gap--) {
+        //     curA = curA->next;
+        // }
+        // 遍历curA 和 curB，遇到相同则直接返回
+        // while (curA != NULL) {
+        //     if (curA == curB) {
+        //         return curA;
+        //     }
+        //     curA = curA->next;
+        //     curB = curB->next;
+        // }
+        // return NULL;
