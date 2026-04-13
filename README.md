@@ -63,10 +63,19 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 <!---LeetCode Topics End-->
