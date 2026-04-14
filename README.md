@@ -63,6 +63,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0838-design-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0838-design-linked-list/) | undefined |
 ## Hash Table
@@ -73,9 +74,11 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 <!---LeetCode Topics End-->
