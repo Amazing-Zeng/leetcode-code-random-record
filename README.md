@@ -74,6 +74,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 | [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 ## Queue
@@ -81,4 +82,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 <!---LeetCode Topics End-->
