@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 | [0792-binary-search](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0792-binary-search/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
 | [0225-implement-stack-using-queues](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0225-implement-stack-using-queues/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
@@ -88,4 +90,8 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
 <!---LeetCode Topics End-->
