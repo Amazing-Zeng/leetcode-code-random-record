@@ -23,6 +23,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
 ## Sorting
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
+| [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
 ## Math
 | Problem Name | Difficulty |
