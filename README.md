@@ -96,6 +96,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
+| [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
 | [0541-reverse-string-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0541-reverse-string-ii/) | undefined |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1128-remove-all-adjacent-duplicates-in-string/) | undefined |
 ## Math
@@ -106,4 +107,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+| [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
 <!---LeetCode Topics End-->
