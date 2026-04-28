@@ -32,6 +32,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0151-reverse-words-in-a-string/) | undefined |
+| [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
 | [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
 | [0541-reverse-string-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0541-reverse-string-ii/) | undefined |
