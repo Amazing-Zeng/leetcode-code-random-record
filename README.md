@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
@@ -75,6 +76,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
