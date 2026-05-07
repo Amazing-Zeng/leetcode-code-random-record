@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
+| [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
@@ -22,6 +23,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
@@ -35,6 +37,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 ## Prefix Sum
