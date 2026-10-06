@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool repeatedSubstringPattern(string s) {
+        #if 0
         int n = s.size();
         char* son = new char[n / 2 ];  // 方括号！分配数组
 
@@ -23,6 +24,11 @@ public:
         }
 
         delete[] son;
+        return false;
+        #endif
+        string t=s+s;
+        t.erase(t.begin()); t.erase(t.end() - 1); // 掐头去尾
+        if (t.find(s) != std::string::npos) return true; // r
         return false;
     }
 };
