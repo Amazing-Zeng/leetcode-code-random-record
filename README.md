@@ -131,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+| [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
 ## Boyer–Moore 算法
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+| [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
 <!---LeetCode Topics End-->
