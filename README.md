@@ -12,6 +12,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+| [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0454-4sum-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0454-4sum-ii/) | undefined |
 | [0792-binary-search](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0792-binary-search/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+| [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0792-binary-search](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0792-binary-search/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0202-happy-number](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0202-happy-number/) | undefined |
 | [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
+| [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0541-reverse-string-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0541-reverse-string-ii/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
@@ -39,6 +42,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
+| [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -85,6 +89,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0202-happy-number](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0202-happy-number/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
+| [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0383-ransom-note](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0383-ransom-note/) | undefined |
 | [0454-4sum-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0454-4sum-ii/) | undefined |
 | [100167-intersection-of-two-linked-lists-lcci](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/100167-intersection-of-two-linked-lists-lcci/) | undefined |
