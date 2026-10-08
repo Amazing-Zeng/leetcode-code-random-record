@@ -1,20 +1,27 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int> record(26,0);
-        if (s.size() != t.size()) return false;
-        for (int i = 0; i < s.size(); i++) {
-            // 并不需要记住字符a的ASCII，只要求出一个相对数值就可以了
-            record[s[i] - 'a']++;
-        }
-        for(int i=0;i<t.size();i++){
-            record[t[i]-'a']--;
-        }
-        for(int i=0;i<record.size();i++)
+        int s_size=s.size();
+        int t_size=t.size();
+        if(s_size!=t_size) return false;
+        vector<int> nums(26,0);
+        for(int i=0;i<s_size;i++)
         {
-            if(record[i]!=0)
+            int tmep=s[i]-'a';
+            nums[tmep]++;
+        }
+        for(int j=0;j<t_size;j++)
+        {
+            int tmep=t[j]-'a';
+            nums[tmep]--;
+        }
+        for(const int &x:nums)
+        {
+            if(x!=0)
             return false;
         }
         return true;
+        
+        
     }
 };
