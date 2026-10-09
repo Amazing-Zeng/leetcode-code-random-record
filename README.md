@@ -146,4 +146,20 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0459-repeated-substring-pattern](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0459-repeated-substring-pattern/) | undefined |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 <!---LeetCode Topics End-->
