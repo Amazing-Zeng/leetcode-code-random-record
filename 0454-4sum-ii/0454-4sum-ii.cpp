@@ -1,26 +1,53 @@
 class Solution {
 public:
     int fourSumCount(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3, vector<int>& nums4) {
-        unordered_map<int,int> umap; // key:a+b的数值，value:a+b数值出现的次数
-        for(int a:nums1)
+        // std::multiset<int> set; //可重复
+        // int count=0;
+        // for(const int&x:nums1)
+        // {
+        //     for(const int&y:nums2)
+        //     {
+        //         set.insert(x+y);
+        //     }
+        // }
+        // for(const int&x:nums3)
+        // {
+        //     for(const int&y:nums4)
+        //     {
+        //         if(set.find(-(x+y))!=set.end())
+        //         {
+        //             count+=set.count(-(x+y));
+        //         }
+        //     }
+        // }
+        // return count;
+
+        std::unordered_map <int,int> unmap; //不可重复
+        int count=0;
+        for(int i=0;i<nums1.size();i++)
         {
-            for(int b:nums2)
+            for(int j=0;j<nums2.size();j++)
             {
-              umap[a+b]++;  
+                // auto iter = unmap.find(nums1[i] + nums2[j]);
+                // if (iter != unmap.end()) {
+                //     iter->second++;
+                // } else {
+                //     unmap.insert({nums1[i] + nums2[j], 1});
+                // }
+                unmap[nums1[i] + nums2[j]]++;
             }
         }
-        int count=0; // 统计a+b+c+d=0的次数
-        for(int c:nums3)
+        for(const int&x:nums3)
         {
-            for(int d:nums4)
+            for(const int&y:nums4)
             {
-                if(umap.find(0-(c+d))!=umap.end())
+                auto iter=unmap.find(-(x+y));
+                if(iter!=unmap.end())
                 {
-                    count+=umap[0-(c+d)];
+                    count+=iter->second;
                 }
             }
         }
         return count;
     }
-
 };
