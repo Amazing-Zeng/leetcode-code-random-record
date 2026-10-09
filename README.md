@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0024-swap-nodes-in-pairs/) | undefined |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0203-remove-linked-list-elements](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0203-remove-linked-list-elements/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0206-reverse-linked-list/) | undefined |
@@ -149,17 +150,21 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 <!---LeetCode Topics End-->
