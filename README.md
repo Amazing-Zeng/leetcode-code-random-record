@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
+| [0222-count-complete-tree-nodes](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0222-count-complete-tree-nodes/) | undefined |
 | [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [0792-binary-search](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0792-binary-search/) | undefined |
 ## Two Pointers
@@ -155,6 +156,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | undefined |
+| [0222-count-complete-tree-nodes](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0222-count-complete-tree-nodes/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -179,5 +181,10 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0111-minimum-depth-of-binary-tree/) | undefined |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0116-populating-next-right-pointers-in-each-node/) | undefined |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | undefined |
+| [0222-count-complete-tree-nodes](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0222-count-complete-tree-nodes/) | undefined |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0515-find-largest-value-in-each-tree-row/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0222-count-complete-tree-nodes/) | undefined |
 <!---LeetCode Topics End-->
