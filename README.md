@@ -52,6 +52,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0202-happy-number](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0202-happy-number/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
@@ -112,6 +114,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0151-reverse-words-in-a-string/) | undefined |
