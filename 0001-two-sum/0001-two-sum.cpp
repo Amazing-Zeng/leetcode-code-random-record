@@ -1,24 +1,36 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        std::unordered_map<int,int> map;
+        /*双遍历*/
+        // std::unordered_set<int> result;
+        // std::unordered_map<int,int> unmap;
+        // int i=0;
+        // for(const int& num:nums)
+        // {
+        //     unmap.insert({num,i});
+        //     i++;
+        // }
+        // for(int j=0;j<nums.size();j++)
+        // {
+        //     auto itetor=unmap.find(target-nums[j]);
+        //     if(itetor!=unmap.end()&& itetor->second!=j)
+        //     {
+        //         result.insert(j);
+        //         result.insert(itetor->second);
+        //     }
+        // }
+        // return vector<int>(result.begin(),result.end());
+        /*单遍历*/
+        unordered_map<int,int> unmap;
         for(int i=0;i<nums.size();i++)
         {
-            // 返回的是{key,value} key是值，value是下标
-            // map.find(x) 去哈希表找key=x的元素
-            auto iter=map.find(target-nums[i]);
-            if(iter!=map.end())
+            auto iter=unmap.find(target-nums[i]);
+            if(iter!=unmap.end())
             {
-                // iter是键值对的迭代器，iter->first存的是key，->second 存的是value
                 return {iter->second,i};
             }
-            else
-            {
-                // 插入键值对
-                map.insert(pair<int,int>(nums[i],i));
-            }
+            unmap.insert({nums[i],i});
         }
         return {};
-        
     }
 };
