@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
 | [0027-remove-element](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0027-remove-element/) | undefined |
+| [0049-group-anagrams](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0049-group-anagrams/) | undefined |
 | [0059-spiral-matrix-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0059-spiral-matrix-ii/) | undefined |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0150-evaluate-reverse-polish-notation/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0209-minimum-size-subarray-sum/) | undefined |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0015-3sum/) | undefined |
+| [0049-group-anagrams](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0049-group-anagrams/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [0349-intersection-of-two-arrays](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0349-intersection-of-two-arrays/) | undefined |
 | [1019-squares-of-a-sorted-array](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/1019-squares-of-a-sorted-array/) | undefined |
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0001-two-sum/) | undefined |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0049-group-anagrams](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0049-group-anagrams/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0202-happy-number](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0202-happy-number/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
@@ -117,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0020-valid-parentheses](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0020-valid-parentheses/) | undefined |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | undefined |
+| [0049-group-anagrams](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0049-group-anagrams/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0242-valid-anagram](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0242-valid-anagram/) | undefined |
 | [0344-reverse-string](https://github.com/Amazing-Zeng/leetcode-code-random-record/tree/main/0344-reverse-string/) | undefined |
